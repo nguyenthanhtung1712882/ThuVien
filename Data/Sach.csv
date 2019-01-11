@@ -1,0 +1,51 @@
+Ma sach, Ten sach, Tac gia, NXB, Gia sach, ISBN
+LT001,Nhap mon lap trinh ,Tran Dan Thu,NXB KH-KT,2
+LT002,Ky thuat lap trinh,Tran Dan Thu,NXB KH-KT,2
+LT003,Lap trinh huong doi tuong,Tran Dan Thu,NXB KH-KT,2
+LT004,Cau truc du lieu & giai thuat,Nhieu tac gia,NXB KH-KT,2
+JAVA001,Head First Java,Bert Bates & Kathy Sierra,O'REILLY,1,978-059600920
+JAVA002,Clean code,Robert C.Martin,James O.Coplien,1,978-013235088
+JAVA003,Java in a Nutshell,Benjamin J.Evans,O'REILLY,1,978-149203725
+VH001,Toi thay hoa vang tren co xanh,Nguyen Nhat Anh,NXB Tre,3
+VH002,Cho toi xin mot ve di tuoi tho,Nguyen Nhat Anh,NXB Tre,3
+VH003,Quan go di len ,Nguyen Nhat Anh,NXB Tre,3
+VH004,Co gai den tu hom qua,Nguyen Nhat Anh,NXB Tre,3
+VH005,Bay buoc toi mua he,Nguyen Nhat Anh,NXB Tre,3
+VH006,Con cho nho mang gio hoa hong,Nguyen Nhat Anh,NXB Tre,3
+VH007,Cay chuoi non di giay xanh,Nguyen Nhat Anh,NXB Tre,3
+VH008,Mat biec,Nguyen Nhat Anh,NXB Tre,3
+VH009,Trai hoc vang,Nguyen Nhat Anh,NXB Tre,3
+VH010,Bong bon len troi,Nguyen Nhat Anh,NXB Tre,3
+WD001,HTML and CSS (..),John Duckett,John Wiley & Sons,4,978-111800818
+WD002,Learning Web Design (..),Jennifer Robbins,O'REILLY,4,978-149196020
+WD003,Web Design All-in-One For Dummies,Sue Jenkins,John Wiley & Sons,4,978-111840410
+WD004,Responsive Web Design (..),Ben Frain,Packt,4,978-178439893
+TR001,Than dong dat viet tap 1,Le Linh,NXB Tre,5
+TR002,Than dong dat viet tap 2,Le Linh,NXB Tre,5
+TR003,Than dong dat viet tap 3,Le Linh,NXB Tre,5
+TR004,Than dong dat viet tap 4,Le Linh,NXB Tre,5
+TR005,Than dong dat viet tap 5,Le Linh,NXB Tre,5
+TR006,Than dong dat viet tap 6,Le Linh,NXB Tre,5
+TR007,Than dong dat viet tap 7,Le Linh,NXB Tre,5
+TR008,Than dong dat viet tap 8,Le Linh,NXB Tre,5
+TR009,Than dong dat viet tap 9,Le Linh,NXB Tre,5
+TR010,Than dong dat viet tap 10,Le Linh,NXB Tre,5
+PY001,Learning Python,Mark Lutz,O'REILLY,6,978-144935573
+PY002,Automate the Boring Stuff with Python,Al Sweigart,Al Sweigart Inc,6,978-159327599
+PY003,Invent Your Own Computer (..),Al Sweigart,Al Sweigart Inc,6,978-134586448
+PY004,Fluent Python,Luciano Ramaltho,O'REILLY,6,978-149194600
+ND001,Truyen Kieu,Nguyen Du,NXB Van hoc,7
+TN001,5 Centimet Tren Giay,Shinkai Makoto,NXB Van hoc,7
+TL001,Ha Noi Bam Sau Pho Phuong,Thach Lam,NXB Nha Nam,7
+TL002,Gio lanh dau mua,Thach Lam,NXB Van hoc,7
+TL003,Hai dua tre,Thach Lam,NXB Van hoc,7
+TL004,Thach Lam tuyen tap,Thach Lam,NXB Van hoc,7
+NTT001,Tat  den,Ngo Tat To,NXB Van hoc,8
+NTT002,Viec lang,Ngo Tat To,NXB Van hoc,8
+NTT003,Leu chong,Ngo Tat To,NXB Van hoc,8
+C001,C++ Primer,Stanley B. Lippman,Objectwrite Inc,9,978-032171411
+C002,The C++ Programming Language,Bjarne Stroustrup,Pearson Education,9,978-032195832
+C003,Effective Modern C++,Scott Meyers,Scott Meyers,9,978-149190399
+C004,Principles and Practice Using C++ (..),Bjarne Stroustrup,Addison-Wesley,9,978-032199278
+C005,C++ Primer Plus,Stephen Prata,Addison-Wesley,9,978-032177640
+C006,Effective C++: 55 Specific Ways (..),Scott Meyers,Addison-Wesley,9,978-032133487

@@ -115,6 +115,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DocGia.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MyDate.cpp" />
+    <ClCompile Include="PhieuMuonTra.cpp" />
+    <ClCompile Include="SachNN.cpp" />
+    <ClCompile Include="SachTV.cpp" />
+    <ClCompile Include="ThuVien.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DocGia.h" />
+    <ClInclude Include="MyDate.h" />
+    <ClInclude Include="PhieuMuonTra.h" />
+    <ClInclude Include="SachNN.h" />
+    <ClInclude Include="SachTV.h" />
+    <ClInclude Include="ThuVien.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
